@@ -1,15 +1,44 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## Introduction
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I'm **Junyang Wang (王俊阳)**, a sophomore student majoring in Computer Science at **Peking University**.
+
+My research interests focus on:
+- **Computer Vision (CV)**: Exploring advanced techniques in image processing, object detection, and visual recognition
+- **Agent Systems**: Developing intelligent agents and autonomous systems
+
+## Education
+
+**Peking University**  
+Bachelor of Science in Computer Science  
+*Sophomore (2023 - Present)*  
+Beijing, China
+
+## Research Interests
+
+I am passionate about pushing the boundaries of artificial intelligence, particularly in:
+- Computer Vision applications
+- Intelligent agent development
+- Machine learning and deep learning
+
+## Contact
+
+Feel free to reach out to me through:
+- **Email**: [junyangwang@stu.pku.edu.cn](mailto:junyangwang@stu.pku.edu.cn)
+- **GitHub**: [ID-WJY001](https://github.com/ID-WJY001)
+- **WeChat**: ID-WJY001
+
+---
+
+*This website is built using the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages.*
 
 A data-driven personal website
 ======
