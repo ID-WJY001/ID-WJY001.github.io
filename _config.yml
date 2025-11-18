@@ -23,7 +23,7 @@ repository               : "ID-WJY001/ID-WJY001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Junyang Wang (王俊阳)"
   pronouns         : # example: "she/her"  
   bio              : "Sophomore at Peking University<br>Computer Science<br>Research: CV, Agent"
