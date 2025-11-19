@@ -11,41 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Computer Science, School of EECS, Peking University, 2024.09 - Present
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.11 - Present: AI Agent R&D, Jiukun Innovation (九坤创新)
+  * Role: AI Agent Research & Development
+  * Responsibilities: Designing and developing agent systems, integrating LLMs and backend services, prototyping interactive features
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C++
+* Machine Learning: PyTorch, deep learning for computer vision
+* LLMs and conversational agents: prompt engineering, model integration
+* Web development: modern JavaScript, RESTful APIs, frontend and backend integration
+* Tools: Git, Docker, SQL/NoSQL databases
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* No publications yet. Currently involved in laboratory projects on embodied intelligence and computer vision.
   
 Talks
 ======
@@ -61,4 +46,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Project contributions and campus involvement: lead developer on interactive module for PKUHub; contributor to Lyuyuan AI project
+
+Project experience
+======
+* PKUHub — Frontend & Backend Development (2025.08 - 2025.09)
+  * Implemented interactive modules and resource interface for the PKU campus note-sharing platform
+  * Contributed to user-facing features and backend endpoints
+
+* Lyuyuan AI — Personalized AI character dialogue engine (2025.09 - Present)
+  * LLM-powered conversational character engine for personalized AI companions and game characters
+  * Responsible for model integration and serving components
+
+* Mini Lisp Interpreter — C++ project (personal)
+  * Lightweight Lisp interpreter implemented in C++, includes REPL and core language features
