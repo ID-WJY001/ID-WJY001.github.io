@@ -1,6 +1,6 @@
 ---
 title: "PKUHub"
-excerpt: "An open-source note-sharing platform for Peking University with 3K+ users and 13K+ downloads<br/><img src='/images/portfolio/pkuhub.png' style='max-width: 500px;'>"
+excerpt: "An open-source note-sharing platform for Peking University with 3K+ users and 13K+ downloads<br/><img src='/images/pkuhub_preview.png' style='max-width: 500px;'>"
 collection: portfolio
 ---
 

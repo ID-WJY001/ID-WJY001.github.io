@@ -1,6 +1,6 @@
 ---
 title: "Lyuyuan AI"
-excerpt: "An LLM-powered conversational character engine with personalized AI companions<br/><img src='/images/portfolio/lyuyuan-ai.png' style='max-width: 500px;'>"
+excerpt: "An LLM-powered conversational character engine with personalized AI companions<br/><img src='/images/lyuyuan_ai_preview.png' style='max-width: 500px;'>"
 collection: portfolio
 ---
 

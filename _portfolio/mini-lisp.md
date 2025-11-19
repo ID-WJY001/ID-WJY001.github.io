@@ -1,6 +1,6 @@
 ---
 title: "Mini Lisp Interpreter"
-excerpt: "A lightweight Lisp interpreter implemented in C++, featuring core functional programming capabilities<br/><img src='/images/portfolio/mini-lisp.png' style='max-width: 500px;'>"
+excerpt: "A lightweight Lisp interpreter implemented in C++, featuring core functional programming capabilities<br/><img src='/images/mini_lisp_preview.png' style='max-width: 500px;'>"
 collection: portfolio
 ---
 
