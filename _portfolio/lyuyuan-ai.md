@@ -6,9 +6,10 @@ collection: portfolio
 
 ## Lyuyuan AI
 
-An LLM-powered conversational character engine with personalized AI companions, built with Python and modern web technologies.
+An LLM-powered conversational character engine with **multiple personalized AI companions**, built with Python and modern web technologies. Users can interact with various AI characters, each with unique personalities and conversation styles.
 
 ### Features
+- **Multi-character system**: Support for multiple AI personalities
 - Personalized AI character conversations
 - LLM integration for natural language understanding
 - Modern web interface

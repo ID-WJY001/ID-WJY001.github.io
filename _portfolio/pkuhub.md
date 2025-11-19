@@ -8,6 +8,8 @@ collection: portfolio
 
 An open-source note-sharing platform designed for Peking University students, providing a centralized hub for academic resources and collaborative learning.
 
+*Note: Access may require Peking University VPN (访问可能需要北大VPN)*
+
 ### My Contributions
 - **Frontend & Backend Development**: Designed and implemented the interactive module and resource interface
 - **Full-Stack Implementation**: Responsible for both client-side and server-side development
