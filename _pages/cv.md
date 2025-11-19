@@ -32,18 +32,6 @@ Publications
 ======
 * No publications yet. Currently involved in laboratory projects on embodied intelligence and computer vision.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Project contributions and campus involvement: lead developer on interactive module for PKUHub; contributor to Lyuyuan AI project
